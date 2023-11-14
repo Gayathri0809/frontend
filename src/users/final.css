@@ -1,0 +1,65 @@
+.final{
+    background-color: aqua;
+}
+.last{
+    
+    height:90vh;
+    overflow: hidden;
+    /*border: 5px solid black;*/
+    background-color:aliceblue;
+   
+ 
+}
+
+
+
+.final{
+    background: url(ordersuccessful.gif);
+    mix-blend-mode: multiply;
+    
+    background-image: contain;
+    background-repeat: no-repeat;
+    width:200px;
+    height:500px;
+    background-position: center;
+    
+   
+   
+}
+#od{
+    font-weight: bold;
+    font-size: 50px;
+    background: repeating-linear-gradient(rgb(21, 135, 61),rgb(24, 95, 17),rgb(22, 140, 77));
+    color:transparent;
+    background-position: center;
+    transform: translateX(500px);
+    -webkit-background-clip: text;
+}
+#feed{
+    transform: translateX(700px); 
+    width:200px;
+    height:50px;
+   border-radius: 5px;
+    font-weight: bold;
+    font-size: 30px;
+    
+}
+#feed:hover{
+    transition: 1s;
+    transform: scale(1 1);
+    background-color: rgb(104, 104, 69);
+    cursor: pointer;
+    color:hotpink;
+    background: none;
+}
+.address{
+    background-color:#eee;
+    height: 90vh;
+}
+#status{
+
+    width:500px;
+    height: 800px;
+   display:flex;
+
+}

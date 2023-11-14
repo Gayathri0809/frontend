@@ -1,0 +1,15 @@
+.boxes{
+    background: url("spoon.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:90vh;
+    overflow-x: hidden;
+}
+#chef{
+    color:rebeccapurple;
+    font-size: 65px;
+}
+#one{
+    color:rgb(179, 9, 94);
+    font-size: larger;
+}

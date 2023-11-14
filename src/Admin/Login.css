@@ -1,0 +1,89 @@
+.box1{
+    background: url("admins.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:90vh;
+    width:187.8vh;
+    overflow-x: hidden;
+    
+}
+
+#admin{
+    transform: translateX(600px);
+    color:rebeccapurple
+}
+.user{
+    transform: translateX(300px);
+    color: darkmagenta;
+}
+.Admenu{
+    background-color:#DED7EC;
+    overflow-y: hidden;
+}
+.admenu{
+    background-color:#DED7EC;
+    height:90vh;
+}
+#large{
+    color:rebeccapurple
+}
+		
+#dashboard{
+   /* position: relative;*/
+   width: 1000px;
+    height: 500px;
+    /*border: 5px solid rgb(219, 222, 18);*/
+   padding-left: 5px;
+   padding-top: 5px;
+
+
+}
+
+.dash1{
+   
+    height: 150px;
+    width: 150px;
+    border: 2px solid rgb(225, 211, 11);
+    margin: 10px;
+    text-decoration: none;
+    padding: 5px;
+    
+
+}
+
+.dash4{
+    background-color: #eee;
+    width:200vh;
+    height:91vh;
+    overflow-x: hidden;
+}
+
+
+.view-rating-container {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .header {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .retrieved-text {
+    font-size: 16px;
+    color: #333;
+  }
+.Admenu{
+    overflow-y: hidden;
+}  
+	
+#dash6{
+    display: flex;
+    justify-content:space-evenly;
+    gap: 30px;
+   
+}
+	
